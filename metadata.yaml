@@ -1,0 +1,31 @@
+_repo: Books-Fatal-to-Their-Authors_8485
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ditchfield, P. H. (Peter Hampson)
+    aliases:
+    - Ditchfield, Peter Hampson
+    - Ditchfield, Peter H. (Peter Hampson)
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '2767'
+    url: http://www.gutenberg.org/2009/agents/2767
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prohibited books'
+- !lcc 'Z'
+- !lcsh 'Authors'
+- GITenberg
+tableOfContents: Theology -- Fanatics and free-thinkers -- Astrology, alchemy, and
+  magic -- Science and philosophy -- History -- Politics and statesmanship -- Satire
+  -- Poetry -- Drama and romance -- Booksellers and publishers -- Some literary martyrs.
+title: Books Fatal to Their Authors
+url: http://www.gutenberg.org/ebooks/8485
