@@ -1,5 +1,8 @@
 _repo: Books-Fatal-to-Their-Authors_8485
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ditchfield, P. H. (Peter Hampson)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '2767'
     url: http://www.gutenberg.org/2009/agents/2767
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8485#Books-Fatal-to-Their-Authors
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
